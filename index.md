@@ -1,123 +1,77 @@
+# Robotics Team
+
+Welcome to the official page of the Droid Sharks Robotics Team! We are a passionate group of students dedicated to advancing robotics technology, thinking outside the box, and hands-on learning. We are a group of innovators, smart builders, and designers with a mission to create a sustainable environment.
+
+## About Us
+
+Droid Sharks was established in 2023 with the goal of exploring the world of robotics and artificial intelligence. Our team comprises individuals with diverse interests in coding, sports, and arts. Together, we work on designing, building, and programming robots for various competitions and research projects.
+
+## Team Members
+
+- **[Aarush]** - [Role/Position]
+  - Brief description of their role or background.
+
+- **[Soham]** - [Role/Position]
+  - Brief description of their role or background.
+
+- **[Bruhath]** - [Role/Position]
+  - Brief description of their role or background.
+
+- **[Navya]** - [Role/Position]
+  - Brief description of their role or background.
+
+- **[Vyom]** - [Role/Position]
+  - Brief description of their role or background.
+ 
+- **[Tejas]** - [Role/Position]
+  - Brief description of their role or background.
+
+- **[Pratyush]** - [Role/Position]
+  - Brief description of their role or background.
+
+- **[Advaita]** - [Role/Position]
+  - Brief description of their role or background.
+
+## Projects
+
+### Project 1: [Climate Change and Ocean Life]
+- **Description:** 
+- **Technologies Used:** 
+- **Achievements:**
+- **Link to More Information:** 
+
+
+## Events and Competitions
+
+Our team actively participates in various events and competitions throughout the year. Here are some of the key events:
+
+- **Event 1:** [Event Name] - [Date]
+  - Description of the event and the team's participation.
+
+- **Event 2:** [Event Name] - [Date]
+  - Description of the event and the team's participation.
+
+
+## Contact Us
+
+If you have any questions or would like to get in touch with us, please feel free to reach out:
+
+- **Email:** droidsharks2024@gmail.com
+- **Phone:**
+- **Social Media:**
+  - [Twitter](https://twitter.com/yourteam)
+  - [Facebook](https://facebook.com/yourteam)
+  - [LinkedIn](https://linkedin.com/company/yourteam)
+
+## Contributing
+
+We welcome contributions from the community! If you’re interested in contributing to our projects or supporting our team, please follow our [contribution guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ---
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Thank you for visiting our page! Stay tuned for updates on our latest projects and achievements.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
